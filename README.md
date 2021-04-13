@@ -1,5 +1,5 @@
-# Clockiti
-# The next generation Arduino smart clock to wake up moms
+# The 2 in 1 Christmans Maze Game
+# The next generation Arduino based maze game.
 
 The purpose of the game is to make the ball reach the end from the start avoiding the holes which act like obstacles using the joy stick. My game is for improving coordination, attention, concentration, skills and multitasking.
 
