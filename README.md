@@ -1,1 +1,1 @@
-# christmasMaze
+# ChristmasMaze
