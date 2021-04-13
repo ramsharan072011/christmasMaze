@@ -31,11 +31,11 @@ W* henever you click the button at the right time, the speed of the moving blue 
 * Solder all the circuitry to a circuit board.
 
 ## Do check out the demo vides below. 
-### Part -1 : ChristmasMaze Game Introduction 
+### Demo Video - Part -1 : ChristmasMaze Game Introduction 
 [![Demo Video - Part-1](https://github.com/ramsharan072011/christmasMaze/blob/main/images/GoldenLight-H-Maze.jpeg)](https://www.youtube.com/watch?v=Uhpki5dnHLM)
-### Part -2 :  HitTheBullsEye Game.
+### Demo Video - Part -2 :  HitTheBullsEye Game.
 [![Demo Video - Part-2](https://github.com/ramsharan072011/christmasMaze/blob/main/images/SolverLight-V-Maze.jpeg)](https://www.youtube.com/watch?v=_kue688oZ6M)
-### Part -3 : LetsPlay.
+###  Demo Video - Part -3 : LetsPlay.
 [![Demo Video - Part-3](https://github.com/ramsharan072011/christmasMaze/blob/main/images/MazeGame-Internal-Servo.jpeg)](https://www.youtube.com/watch?v=SBt3i6L18CU)
 
 ## License
